@@ -52,7 +52,7 @@ $result = mysqli_query($conn, $sql);
 <body>
   <header>
     <nav>
-      <h1>XYZ Corp.</h1>
+      <h1>DK solution</h1>
       <ul id="navli">
         <li><a class="homeblack" href="eloginwel.php?id=<?php echo $id?>"">HOME</a></li>
         <li><a class="homered" href="myprofile.php?id=<?php echo $id?>"">My Profile</a></li>
