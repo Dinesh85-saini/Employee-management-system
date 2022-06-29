@@ -21,7 +21,7 @@ $result = mysqli_query($conn, $sql);
 	
 	<header>
 		<nav>
-			<h1>XYZ Corp.</h1>
+			<h1>DK solution</h1>
 			<ul id="navli">
 				<li><a class="homeblack" href="aloginwel.php">HOME</a></li>
 				
